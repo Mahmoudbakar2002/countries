@@ -12,7 +12,7 @@ This is the countries data stored in different file formats. The data has been c
 * [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) Alpha-3 Code.
 * Phone Code.
 
-## Availabe File Formats:
+## Availabe File Formats
 
 * CSV:
 
